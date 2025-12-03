@@ -7,7 +7,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Radio className="h-5 w-5 text-primary" />
-            <span className="font-semibold">DataTransmit</span>
+            <span className="font-semibold">TransmisiónDatos</span>
           </div>
 
           <p className="text-sm text-muted-foreground text-center">

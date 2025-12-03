@@ -19,7 +19,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <Radio className="h-6 w-6 text-primary" />
-            <span className="font-semibold text-lg">DataTransmit</span>
+            <span className="font-semibold text-lg">TransmisiónDatos</span>
           </div>
 
           <div className="hidden md:flex items-center gap-8">
